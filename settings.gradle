@@ -1,0 +1,3 @@
+rootProject.name = 'kafak-producer-wiki'
+include 'kafka-consumer-opensearch'
+
